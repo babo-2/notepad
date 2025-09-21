@@ -1,0 +1,7 @@
+# Ignore folders
+backup/
+
+# Ignore specific files
+hash.py
+push.bat
+main.py
